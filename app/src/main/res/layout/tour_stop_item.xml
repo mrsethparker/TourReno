@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/standard_height"
+    android:minHeight="@dimen/standard_height"
+    android:orientation="horizontal">
+
+    <ImageView
+        android:id="@+id/thumbnailImage"
+        android:layout_width="@dimen/wide_width"
+        android:layout_height="@dimen/standard_height"
+        android:scaleType="centerCrop" />
+
+    <LinearLayout
+        android:id="@+id/eventLayout"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/standard_height"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentTop="true"
+        android:layout_toEndOf="@id/thumbnailImage"
+        android:orientation="vertical"
+        android:paddingEnd="@dimen/standard_padding"
+        android:paddingStart="@dimen/standard_padding">
+
+        <TextView
+            android:id="@+id/stopName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:text="event name" />
+
+        <TextView
+            android:id="@+id/url"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:autoLink="web" />
+
+    </LinearLayout>
+
+</RelativeLayout>

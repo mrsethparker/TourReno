@@ -1,0 +1,89 @@
+<resources>
+    <!-- name of our app -->
+    <string name="app_name">Tour Reno</string>
+
+    <!-- events list title text -->
+    <string name="events_category">Events</string>
+
+    <!-- dining list title text -->
+    <string name="dining_category">Dining</string>
+
+    <!-- historical list title text -->
+    <string name="history_category">History</string>
+
+    <!-- fun list title text -->
+    <string name="fun_category">Fun</string>
+
+    <!-- name of great basin brewery -->
+    <string name="gb_brewery_name">Great Basin Brewery</string>
+
+    <!-- name of silver peak brewery -->
+    <string name="sp_brewery_name">Silver Peak Brewery</string>
+
+    <!-- name of tha joint sushi restaurant -->
+    <string name="sushi_name">Tha Joint</string>
+
+    <!-- url for great basin brewery -->
+    <string name="gb_brewery_url">https://greatbasinbrewingco.com/</string>
+
+    <!-- url for silver peak brewery -->
+    <string name="sp_brewery_url">http://www.silverpeakbrewery.com/</string>
+
+    <!-- url for tha joint sushi restaurant -->
+    <string name="thajoint_url">http://www.thajointsushi.com/</string>
+
+    <!-- name for hot august nights event -->
+    <string name="hot_august_night_name">Hot August Nights</string>
+
+    <!-- name for rib cookoff event -->
+    <string name="rib_cookoff_name">Rib Cookoff</string>
+
+    <!-- name for reno auto show event -->
+    <string name="reno_auto_show_name">Reno Auto Show</string>
+
+    <!-- name for art town event -->
+    <string name="art_town_name">Art Town</string>
+
+    <!-- url for hot august nights event -->
+    <string name="hot_august_nights_url">https://hotaugustnights.net/</string>
+
+    <!-- url for rib cookoff event -->
+    <string name="rib_cookoff_url">https://nuggetribcookoff.com/</string>
+
+    <!-- url for reno auto show event -->
+    <string name="reno_auto_show_url">https://www.autoshowreno.com/</string>
+
+    <!-- url for art town event -->
+    <string name="art_town_url">https://artown.org/</string>
+
+    <!-- name for float truckee recreation -->
+    <string name="float_truckee_name">Float the Truckee River</string>
+
+    <!-- name for visit tahoe recreation -->
+    <string name="visit_tahoe_name">Visit Lake Tahoe</string>
+
+    <!-- name for ski mount rose recreation -->
+    <string name="ski_rose_name">Ski Mount Rose</string>
+
+    <!-- url for float truckee recreation -->
+    <string name="float_truckee_url">https://www.outdoorproject.com/adventures/california/floating/truckee-river-float</string>
+
+    <!-- url for visit tahoe recreation -->
+    <string name="visit_tahoe_url">https://visitinglaketahoe.com/</string>
+
+    <!-- url for ski rose recreation -->
+    <string name="ski_rose_url">http://skirose.com/</string>
+
+    <!-- name for national automobile museum -->
+    <string name="auto_museum_name">National Automobile Museum</string>
+
+    <!-- name for virginia city -->
+    <string name="vc_name">Virginia City</string>
+
+    <!-- url for national automobile museum -->
+    <string name="auto_museum_url">https://www.nationalautomobilemuseum.org/</string>
+
+    <!-- url for virginia city -->
+    <string name="vc_url">http://www.visitvirginiacitynv.com/</string>
+
+</resources>

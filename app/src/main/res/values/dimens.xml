@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- standard height of our views -->
+    <dimen name="standard_height">88dp</dimen>
+
+    <!-- wide width of our views -->
+    <dimen name="wide_width">132dp</dimen>
+
+    <!-- standard padding of our views -->
+    <dimen name="standard_padding">16dp</dimen>
+</resources>
